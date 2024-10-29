@@ -1,0 +1,31 @@
+/*selector univerasal*/
+* {
+    background-color: green;
+}
+/*fooo*/
+h1, address {
+    background-color: yellow;
+}
+/*selector de clases*/
+p.parrafoazul {
+    background-color: blueviolet;
+}
+/*selector de tipo id */
+p#fondoazul {
+    background-color: aqua;
+}
+div {
+    border-color: pink;
+    border-width: 10px;
+    border-style: dashed;
+}
+
+div p. {
+    color: orange;
+}
+div ol {
+    color: red;
+}
+div> p{
+    color: blue;
+}
